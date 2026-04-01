@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use Queenshift, please cite the software using this metadata and keep it aligned with package.json, CHANGELOG.md, and .zenodo.json for the first public release."
+title: "Queenshift"
+type: software
+authors:
+  - family-names: "Chavda"
+    given-names: "Vatsal"
+abstract: "Queenshift is a bounded coding CLI for small clean Git repos."
+version: "0.1.0-rc1"
+license: "MIT"
+keywords:
+  - "queenshift"
+  - "queenshift cli"
+  - "bounded coding cli"
+  - "swarmengine"
+  - "queenbee"

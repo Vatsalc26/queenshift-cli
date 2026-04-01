@@ -1,0 +1,20 @@
+{
+  "title": "Queenshift",
+  "upload_type": "software",
+  "description": "Queenshift is a bounded coding CLI for small clean Git repos. swarmengine remains the shipped bounded engine and queenbee remains experimental.",
+  "creators": [
+    {
+      "name": "Chavda, Vatsal"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "queenshift",
+    "bounded coding cli",
+    "swarmengine",
+    "queenbee"
+  ],
+  "version": "0.1.0-rc1",
+  "notes": "Zenodo-ready metadata for the Queenshift public software release. Keep package.json, CITATION.cff, .zenodo.json, and CHANGELOG.md aligned with the first public release tag."
+}
