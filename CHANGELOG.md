@@ -14,11 +14,13 @@ This changelog records public product changes, not private pre-release session h
 - support docs and safe fixture surfaces needed to make the public repo runnable and contributor-useful
 - public self-containment docs for install truth, owner path, verification, task corpus, readiness, and release boundaries
 - curated README and docs index wording that aligns the public repo more closely with the governance-first architecture note
+- first public GitHub prerelease tag `v0.1.0-rc1` and matching Zenodo software DOI `10.5281/zenodo.19374972`
 
 ### Metadata Alignment
 
 - the current planned first public version stays `0.1.0-rc1` unless a later release gate changes it
 - keep `package.json`, `CITATION.cff`, `.zenodo.json`, and this changelog aligned on the same public release version
+- the first public software DOI for that release is `10.5281/zenodo.19374972`
 
 ### Current Bounded Beta Truth
 

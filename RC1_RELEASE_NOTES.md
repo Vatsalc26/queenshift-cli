@@ -33,3 +33,10 @@ It should not be read as:
 2. `docs/evidence.md`
 3. `GENERAL_USE_READINESS_DECISION.md`
 4. `SUPPORTED_INSTALL_SURFACES.md`
+
+## Release Provenance
+
+1. architecture note DOI: [10.5281/zenodo.19323465](https://doi.org/10.5281/zenodo.19323465)
+2. public software DOI: [10.5281/zenodo.19374972](https://doi.org/10.5281/zenodo.19374972)
+3. GitHub prerelease tag: `v0.1.0-rc1`
+4. the paper and software should be linked as separate but related research artifacts

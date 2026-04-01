@@ -80,6 +80,13 @@ That answer stays bounded:
 5. preflight the task with `queenshift "<task>" --workspace <repo> --admitOnly`
 6. if the run stops, use the short recovery loop: `queenshift incident:latest --workspace <repo>` shows what failed, `queenshift owner:quick-actions --workspace <repo>` shows the safest next command, `queenshift replay:latest --workspace <repo>` shows the recorded timeline, and `queenshift resume:latest --workspace <repo>` is there when resumability evidence exists
 
+## Citation And Release Trail
+
+1. architecture note DOI: [10.5281/zenodo.19323465](https://doi.org/10.5281/zenodo.19323465)
+2. first public software DOI: [10.5281/zenodo.19374972](https://doi.org/10.5281/zenodo.19374972)
+3. first public GitHub prerelease tag: `v0.1.0-rc1`
+4. the note and the software release are meant to be cited as separate artifacts that describe the architecture thesis and the bounded implementation surface
+
 ## Public Docs In This Repo
 
 1. [QUICKSTART.md](./QUICKSTART.md)

@@ -7,6 +7,7 @@ authors:
     given-names: "Vatsal"
 abstract: "Queenshift is a governance-first bounded coding CLI and the public software counterpart to the project's bounded first architecture slice."
 version: "0.1.0-rc1"
+doi: "10.5281/zenodo.19374972"
 license: "MIT"
 keywords:
   - "queenshift"
