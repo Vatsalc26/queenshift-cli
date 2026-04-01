@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "brandName": "Queenshift",
+  "publicCliDisplayName": "Queenshift CLI",
+  "publicCliCommandCandidate": "queenshift",
+  "currentSourceSheet": "Queenshift.png",
+  "currentPublicTruth": "The source sheet and the first cleaned public-ready exports are now committed together.",
+  "sourceSheetContains": [
+    "dark icon on light background",
+    "gold icon with dark wordmark on light background",
+    "gold icon on dark background",
+    "gold icon with white wordmark on dark background",
+    "transparent icon cutout",
+    "dark and teal app-tile candidates"
+  ],
+  "plannedExports": [
+    {
+      "id": "icon-light",
+      "status": "available",
+      "targetPath": "exports/queenshift-icon-light.png"
+    },
+    {
+      "id": "wordmark-dark",
+      "status": "available",
+      "targetPath": "exports/queenshift-wordmark-dark.png"
+    },
+    {
+      "id": "banner-dark",
+      "status": "available",
+      "targetPath": "exports/queenshift-banner-dark.png"
+    }
+  ],
+  "launchSurfaceMap": [
+    {
+      "surfaceId": "github-avatar",
+      "preferredAssetId": "icon-light",
+      "targetPath": "exports/queenshift-icon-light.png"
+    },
+    {
+      "surfaceId": "readme-wordmark",
+      "preferredAssetId": "wordmark-dark",
+      "targetPath": "exports/queenshift-wordmark-dark.png"
+    },
+    {
+      "surfaceId": "social-preview",
+      "preferredAssetId": "banner-dark",
+      "targetPath": "exports/queenshift-banner-dark.png"
+    }
+  ],
+  "copyRules": [
+    "Use Queenshift as the public product name in public-pack materials.",
+    "Use Queenshift CLI as the public CLI display name.",
+    "Keep swarmengine and queenbee as engine names rather than public brand replacements.",
+    "Use only the committed cleaned exports for public surfaces unless a newer asset is explicitly added."
+  ]
+}
