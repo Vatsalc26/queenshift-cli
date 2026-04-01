@@ -1,0 +1,41 @@
+# SwarmCoder V2 build/artifacts
+node_modules/
+dist/
+artifacts/
+
+# Local runtime artifacts
+swarm-audit.log
+swarm-audit.jsonl
+debug.log
+*.log
+tmp-test.stdout
+tmp-test.stderr
+*.stdout
+*.stderr
+*.stdout.log
+*.stderr.log
+RC1_DAILY_DRIVER_LOG.json
+swarmcoder-v2-*.tgz
+queenshift-cli-*.tgz
+
+# Local caches, worktrees, and temp probes
+.npm-cache/
+.swarm/
+.swarm-worktrees/
+.tmp*
+.tmp*/
+
+# Local verification artifacts
+verification/.tmp-test.db
+verification/.matrix_runs/
+
+# Nested git repo for the test workspace (do not commit)
+verification/test_workspace/.git/
+verification/.demo_repo_workspace/
+verification/.demo_git_tmp/
+
+# Local owner cache
+owner_profiles/owner-cache.local.json
+
+# Secrets
+Coding_sessions/github_access_tokens.md

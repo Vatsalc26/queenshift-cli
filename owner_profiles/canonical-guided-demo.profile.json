@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "profileId": "owner-guided-demo-v1",
+  "surface": "owner_guided_demo",
+  "workspaceRelativePath": "verification/dogfood_repo_copy_final",
+  "workspaceBaselineMarker": "dogfood:",
+  "providerPath": "gemini_cli_oauth",
+  "provider": "gemini",
+  "authMode": "cli",
+  "model": "gemini-2.5-flash",
+  "timeoutMs": 420000,
+  "task": "add a brief comment to hello.ts",
+  "creditEligible": false,
+  "creditPolicy": "non_credit",
+  "nonCreditReason": "Owner guided demo surface is non-credit by design.",
+  "manifestHash": "0c0a883a7a354f04dd6194b77a3f4ef146ffa14f1bdfa4f0553397a4ca4085d0"
+}
