@@ -1,0 +1,3 @@
+{
+  "response": "{\"verdict\":\"NEEDS_WORK\",\"summary\":\"The change is incomplete and must not be auto-accepted.\",\"issues\":[{\"severity\":\"high\",\"description\":\"Implementation is partial and requires another pass.\"}]}"
+}

@@ -1,0 +1,3 @@
+{
+  "response": "{\"tool\": \"write_file\", \"input\": {\"path\": \"hello.ts\", \"content\": \"// SwarmCoder was here\\nexport function greet(name: string): string {\\n  return 'Hello, ' + name + '!\\\\n'\\n}\\n\"}}"
+}

@@ -1,0 +1,4 @@
+{
+  "response": "{\"verdict\":\"NEEDS_WORK\",\"summary\":\"Missing error handling.\",\"issues\":[{\"severity\":\"medium\",\"description\":\"No try/catch around file read\"}]}"
+}
+

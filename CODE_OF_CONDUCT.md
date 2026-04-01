@@ -1,10 +1,8 @@
 # Queenshift Code Of Conduct
 
-Queenshift should feel safe for first-time contributors, careful bug reporters, and people asking basic questions.
+Queenshift should feel welcoming to first-time contributors, careful bug reporters, and people asking basic questions.
 
-The goal is not performative policy.
-
-The goal is a calm public repo where people can collaborate without harassment, pile-ons, or pressure to widen claims beyond evidence.
+The goal is a calm public repo where people can collaborate, disagree thoughtfully, and improve the project without harassment, pile-ons, or pressure to widen claims beyond evidence.
 
 ## Expected Behavior
 
@@ -25,7 +23,7 @@ The goal is a calm public repo where people can collaborate without harassment, 
 
 1. use the repository host's moderation or reporting tools when they are available
 2. use `SECURITY.md` instead of public threads for security-sensitive reports
-3. the maintainer may edit, hide, lock, or remove content that breaks this code of conduct
+3. maintainers may moderate, hide, lock, or remove content that breaks this code of conduct so the project stays usable for everyone
 
 ## Scope
 

@@ -1,0 +1,6 @@
+{
+  "name": "queenshift-demo-repo-pack",
+  "private": true,
+  "type": "module",
+  "description": "Disposable non-production demo repo for Queenshift"
+}
