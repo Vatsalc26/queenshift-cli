@@ -1,7 +1,7 @@
 {
   "title": "Queenshift",
   "upload_type": "software",
-  "description": "Queenshift is a bounded coding CLI for small clean Git repos. swarmengine remains the shipped bounded engine and queenbee remains experimental.",
+  "description": "Queenshift is a governance-first bounded coding CLI and the public software counterpart to the project's bounded first architecture slice. swarmengine remains the shipped bounded engine and queenbee remains experimental.",
   "creators": [
     {
       "name": "Chavda, Vatsal"

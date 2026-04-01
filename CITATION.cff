@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Chavda"
     given-names: "Vatsal"
-abstract: "Queenshift is a bounded coding CLI for small clean Git repos."
+abstract: "Queenshift is a governance-first bounded coding CLI and the public software counterpart to the project's bounded first architecture slice."
 version: "0.1.0-rc1"
 license: "MIT"
 keywords:

@@ -1,6 +1,12 @@
 # Language Packs
 
-This file documents the evidence-driven language packs on the fuller real-swarm path.
+This file documents the current public language-pack story.
+
+Read it as intentionally JS/TS-first:
+
+1. JavaScript / TypeScript is the deepest current public lane
+2. Python is a real secondary verification-facing lane
+3. Go and Rust exist so repo-map and verification surfaces stay honest, not because the product is claiming equal depth
 
 ## Active Packs
 
@@ -17,7 +23,8 @@ This file documents the evidence-driven language packs on the fuller real-swarm 
 
 1. `LANGUAGE_RELIABILITY_MATRIX.md` records which language lanes have deep repo-map guidance versus verification-only coverage.
 2. Deep language-pack coverage is intentionally limited to JavaScript / TypeScript and Python.
-3. Go and Rust now surface as verification-only repo-map packs so `repo:map` and `repo:onboard` can answer language questions without implying deep parity.
+3. The public repo should be read as JS/TS-first even when other rows are present for honesty.
+4. Go and Rust now surface as verification-only repo-map packs so `repo:map` and `repo:onboard` can answer language questions without implying deep parity.
 
 ## Verification Profile Classes
 

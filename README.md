@@ -1,8 +1,10 @@
 # Queenshift
 
-Queenshift is a bounded coding CLI for small clean Git repos.
+Queenshift is a bounded coding CLI built around a governance-first control model.
 
-It helps with small, explicit code changes while keeping review, incident handling, and run artifacts visible.
+It treats stochastic coding workers as execution surfaces inside a stricter control system, keeping review, replay, incident handling, and run artifacts explicit instead of burying them inside one opaque prompt loop.
+
+This public repo is the bounded first code slice behind that architecture. It is serious enough to inspect, use, and contribute to, but it is still not a broad general-use coding claim.
 
 `Queenshift` is the public product name. `Queenshift CLI` is the longer public label when that helps. `swarmengine` remains the shipped bounded engine, and `queenbee` remains experimental behind the scenes.
 
@@ -19,6 +21,13 @@ It helps with small, explicit code changes while keeping review, incident handli
 - bounded docs-and-source sync
 - artifact-backed review and incident follow-up
 - calm first-run demos in a disposable repo
+
+## Why Contribute
+
+- help make the bounded JS/TS lane calmer, clearer, and more trustworthy
+- improve install, onboarding, and support surfaces for noncoder owners and careful contributors
+- strengthen review, replay, incident, and verification truth instead of adding hidden magic
+- help the public repo stay aligned with the architecture note's governance-first thesis
 
 ## What This Beta Does Not Claim
 
@@ -85,5 +94,10 @@ That answer stays bounded:
 10. [LICENSE](./LICENSE)
 11. [docs/README.md](./docs/README.md)
 12. [docs/evidence.md](./docs/evidence.md)
+13. [SUPPORTED_INSTALL_SURFACES.md](./SUPPORTED_INSTALL_SURFACES.md)
+14. [OWNER_OVERSIGHT_GUIDE.md](./OWNER_OVERSIGHT_GUIDE.md)
+15. [VERIFICATION_CATALOG.md](./VERIFICATION_CATALOG.md)
+16. [GENERAL_USE_READINESS_DECISION.md](./GENERAL_USE_READINESS_DECISION.md)
+17. [TASK_CORPUS.md](./TASK_CORPUS.md)
 
 This repo is intentionally curated and keeps the claim bounded. It is not a broad general-use promise, a default-engine switch, or a benchmark-victory claim. Private launch drafts and export-prep notes stay out of this public repo by default.

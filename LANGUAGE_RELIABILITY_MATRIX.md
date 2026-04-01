@@ -2,6 +2,11 @@
 
 This file records the honest proof level for each language lane instead of flattening everything into one "supported" label.
 
+Read it as intentionally asymmetric:
+
+1. Queenshift is currently strongest in bounded JS/TS work
+2. other language rows exist so the repo does not fake symmetry
+
 ## Matrix
 
 | Language lane | Repo-map pack depth | Framework hints surfaced when detected | Verification profile classes | Repeated proof level | Honest claim today |
