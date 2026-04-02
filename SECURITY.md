@@ -27,6 +27,12 @@ Use the public bug template for normal bugs and the task-family template for sco
 3. include the version, install surface, operating system, exact commands, impact, and relevant artifact paths
 4. redact tokens, customer data, and private repo material
 
+## Maintainer Review Gate
+
+Maintainers review outside pull requests conservatively.
+
+For the current maintainer workflow, GitHub settings baseline, and local-review safety rules, use [MAINTAINER_PR_SECURITY.md](./MAINTAINER_PR_SECURITY.md).
+
 ## Response Goals
 
 1. acknowledge real security reports quickly

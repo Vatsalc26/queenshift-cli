@@ -17,6 +17,18 @@ List the exact commands you ran:
 
 List any docs you updated to keep behavior and public wording aligned.
 
+## Maintainer Safety
+
+State whether this PR changes any of the following:
+
+- GitHub workflows
+- install or release scripts
+- auth or network behavior
+- filesystem boundaries
+- lockfiles or dependency manifests
+
+If yes, explain why.
+
 ## Risks Or Follow-Ups
 
 Call out any skipped proof, known limitation, or small follow-up that should happen next.
