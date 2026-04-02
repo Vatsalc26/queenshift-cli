@@ -2,7 +2,7 @@
 
 This runbook is the public support path for the current bounded Queenshift release.
 
-Use it when a contributor or evaluator gets stuck and needs the shortest truthful recovery route.
+Use it when a contributor or evaluator gets stuck and needs the shortest reliable recovery route.
 
 ## First Support Loop
 

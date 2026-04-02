@@ -1,6 +1,6 @@
 # Task Corpus
 
-This file records the bounded task families Queenshift uses to talk about current capability honestly.
+This file records the bounded task families Queenshift uses to describe current capability clearly.
 
 It is not a promise that every family is equally mature.
 
@@ -32,7 +32,7 @@ These families exist in the broader project evidence, but they are not the first
 4. `medium_multi_file_update`
 5. `cross_language_sync`
 
-They matter for deeper evaluation and future growth, but they should not be mistaken for the calmest first-run story.
+They matter for deeper evaluation and future growth, but they should not be mistaken for the recommended first-run story.
 
 ## How To Read This
 
@@ -42,7 +42,7 @@ They matter for deeper evaluation and future growth, but they should not be mist
 
 ## Why This Matters
 
-Queenshift is trying to stay respected by keeping capability claims proportional to proof.
+Queenshift keeps capability statements proportional to the available evidence.
 
 That means:
 

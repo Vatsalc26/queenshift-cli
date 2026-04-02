@@ -1,15 +1,15 @@
 # Queenshift Quickstart
 
-This is the calmest repo-based first path for Queenshift.
+This is the recommended repo-based first path for Queenshift.
 Use it only when you intentionally start from a checked-out repo as an evaluator or contributor.
 
-Current truth:
+Current status:
 
 1. the only supported stranger install surface today is still the local Windows bundle
 2. this quickstart keeps the checked-out-repo package path honest and bounded until a published npm release exists
 3. the repo-root public package name is `queenshift-cli`, and `npm link` resolves the real `queenshift` command from a checked-out repo
 4. this quickstart is the current clean-profile contributor or evaluator acceptance path, not the supported stranger default or the primary public README path
-5. the calmest first-run loop is `queenshift doctor -> queenshift owner:guided:demo -> queenshift demo:run -> queenshift repo:onboard --workspace <repo>`
+5. the recommended first-run loop is `queenshift doctor -> queenshift owner:guided:demo -> queenshift demo:run -> queenshift repo:onboard --workspace <repo>`
 6. use a small clean Git repo and a tiny explicit task for your first real run
 7. this quickstart now belongs to an experimental public release surface, not a broad general-use claim
 8. `swarmengine` remains the shipped bounded engine, `queenbee` remains experimental, and benchmark-win language stays out of scope
@@ -117,7 +117,7 @@ queenshift demo:run
 queenshift demo:gallery
 ```
 
-The guided demo is the calmest frozen first pass. The disposable demo repo shows the same product surface in a bounded workspace before you touch a real repo.
+The guided demo is the recommended guided first pass. The disposable demo repo shows the same product surface in a bounded workspace before you touch a real repo.
 
 ## 6. Try A Real Repo
 

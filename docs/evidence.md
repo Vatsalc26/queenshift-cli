@@ -2,7 +2,7 @@
 
 This page is the public evidence summary for Queenshift as of `2026-03-30`.
 
-Use it when you want one truthful answer for what is live now, what is still experimental, and what the project does not yet claim.
+Use it when you want one current answer for what is live now, what is still experimental, and what the project does not yet support.
 
 ## What Is Live Now
 
@@ -27,10 +27,10 @@ Use it when you want one truthful answer for what is live now, what is still exp
 4. `not_run` is not a tie and is not a hidden win.
 5. the current benchmark story is therefore an honest gap review, not a leaderboard claim.
 
-## What Queenshift Can Claim
+## What Queenshift Currently Supports
 
 1. a bounded coding CLI with artifact-backed review, replay, and incident follow-up.
-2. a calmer first-run path with productized `queenshift` commands.
+2. a more structured first-run path with productized `queenshift` commands.
 3. one shipped bounded engine and one clearly separated experimental engine candidate.
 4. public docs that now match the real CLI instead of older early-stage command habits.
 
@@ -51,5 +51,5 @@ Queenshift is a bounded coding CLI for small clean Git repos. `swarmengine` rema
 ## Read This Next
 
 1. read [../README.md](../README.md) for the product overview.
-2. read [../QUICKSTART.md](../QUICKSTART.md) for the calmest first run.
+2. read [../QUICKSTART.md](../QUICKSTART.md) for the recommended first run.
 3. read [task-families.md](./task-families.md) for bounded first tasks and follow-on families.

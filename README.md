@@ -10,7 +10,7 @@ This public repo is the bounded first code slice behind that architecture. It is
 
 ## Start Here
 
-1. read [docs/install.md](./docs/install.md) for the current install truth and audience split
+1. read [docs/install.md](./docs/install.md) for the current install status and audience split
 2. if you are evaluating from a checked-out repo, read [QUICKSTART.md](./QUICKSTART.md)
 3. keep your first real task tiny, explicit, and file-named
 
@@ -26,7 +26,7 @@ This public repo is the bounded first code slice behind that architecture. It is
 
 - help make the bounded JS/TS lane calmer, clearer, and more trustworthy
 - improve install, onboarding, and support surfaces for noncoder owners and careful contributors
-- strengthen review, replay, incident, and verification truth instead of adding hidden magic
+- strengthen review, replay, incident, and verification surfaces instead of adding opaque behavior
 - help the public repo stay aligned with the architecture note's governance-first thesis
 
 ## What This Beta Does Not Claim
@@ -36,7 +36,7 @@ This public repo is the bounded first code slice behind that architecture. It is
 - marketplace install or broad packaged cross-platform parity
 - `queenbee` as a shipped public engine
 
-For one current evidence summary that keeps live anchors, experimental limits, and benchmark gaps on one public surface, read [docs/evidence.md](./docs/evidence.md).
+For a current evidence summary covering live anchors, experimental boundaries, and benchmark gaps on one public surface, read [docs/evidence.md](./docs/evidence.md).
 
 ## Experimental Public Release Answer
 
@@ -61,20 +61,20 @@ That answer stays bounded:
 4. the checked-out repo path remains evaluator or contributor setup, not the final install story
 5. `swarmengine` remains the shipped bounded engine and `queenbee` remains experimental
 
-## Current Install Truth
+## Current Install Status
 
-1. the calmest supported stranger install surface today is still the local Windows bundle
+1. the simplest supported first-time install surface today is still the local Windows bundle
 2. the public product command is `queenshift`
 3. the repo-root package identity is now `queenshift-cli`
 4. inside a checked-out repo, `npm link` gives one real `queenshift` binary path without claiming a published npm registry install yet
-5. the checked-out-repo path still stays honest as a contributor-style or evaluator path and does not pretend to be packaged parity
-6. once the command is available, the calm product path is `queenshift doctor -> queenshift owner:guided:demo -> queenshift demo:run -> queenshift repo:onboard --workspace <repo> -> queenshift "<task>" --workspace <repo> --admitOnly`
+5. the checked-out-repo path remains a contributor-style or evaluator path and does not present itself as packaged parity
+6. once the command is available, the recommended product path is `queenshift doctor -> queenshift owner:guided:demo -> queenshift demo:run -> queenshift repo:onboard --workspace <repo> -> queenshift "<task>" --workspace <repo> --admitOnly`
 7. checkout-only preparation stays in `docs/install.md` and `QUICKSTART.md` so this README can stay on the product path
 
-## Calm Product Path
+## Recommended Product Path
 
 1. run `queenshift doctor`
-2. run `queenshift owner:guided:demo` when you want the calmest frozen first pass
+2. run `queenshift owner:guided:demo` when you want the guided first pass
 3. run `queenshift demo:gallery` and `queenshift demo:run` before a real target repo
 4. use `queenshift repo:onboard --workspace <repo>` before a real target repo
 5. preflight the task with `queenshift "<task>" --workspace <repo> --admitOnly`
@@ -107,4 +107,4 @@ That answer stays bounded:
 16. [GENERAL_USE_READINESS_DECISION.md](./GENERAL_USE_READINESS_DECISION.md)
 17. [TASK_CORPUS.md](./TASK_CORPUS.md)
 
-This repo is intentionally curated and keeps the claim bounded. It is not a broad general-use promise, a default-engine switch, or a benchmark-victory claim. Private launch drafts and export-prep notes stay out of this public repo by default.
+This repo is intentionally curated and keeps the release surface bounded. It is not a broad general-use promise, a default-engine switch, or a benchmark-victory statement.

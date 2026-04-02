@@ -1,6 +1,6 @@
 # Supported Install Surfaces
 
-This file defines which install and runtime surfaces Queenshift can describe honestly in the public repo today.
+This file defines which install and runtime surfaces Queenshift can describe clearly in the public repo today.
 
 ## Status Labels
 
@@ -20,10 +20,10 @@ This file defines which install and runtime surfaces Queenshift can describe hon
 | Marketplace installs or auto-updaters | normal users | Out of scope | not supported today |
 | Broad packaged cross-platform parity | normal users | Out of scope | not yet earned |
 
-## Current Public Truth
+## Current Public Status
 
 1. The public repo is a curated source release.
-2. The calmest direct path in this repo is still the checked-out contributor or evaluator route.
+2. The simplest direct path in this repo is still the checked-out contributor or evaluator route.
 3. The broader project record still says the only stranger-first install evidence so far comes from the local Windows bundle path used during release-candidate work.
 4. That does not make this public repo a finished packaged install surface.
 
@@ -40,7 +40,7 @@ This file defines which install and runtime surfaces Queenshift can describe hon
 7. `queenshift demo:run`
 8. `queenshift repo:onboard --workspace <repo>`
 
-### Stranger-first truth
+### Stranger-first status
 
 1. The project is visible publicly now.
 2. The stricter normal-user production-ready CLI answer is still `NO`.

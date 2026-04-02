@@ -1,6 +1,6 @@
 # Owner Oversight Guide
 
-This guide is for the project owner, noncoder evaluators, or anyone who wants the calmest bounded path through Queenshift.
+This guide is for the project owner, noncoder evaluators, or anyone who wants the recommended bounded path through Queenshift.
 
 It is the public-safe version of the owner loop.
 
@@ -8,14 +8,14 @@ It is the public-safe version of the owner loop.
 
 Do not widen claims from one nice-looking run.
 
-The trustworthy path is:
+The recommended path is:
 
 1. bounded task
 2. visible review and artifacts
 3. explicit proof loop
 4. honest stop when the evidence is not broad enough yet
 
-## Calm First Path
+## Recommended First Path
 
 1. run `queenshift doctor`
 2. run `queenshift owner:guided:demo`

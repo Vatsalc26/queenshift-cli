@@ -21,7 +21,7 @@ Pull requests are welcome. For bigger changes, open an issue first so we can kee
 
 1. run `npm.cmd test`
 2. explain the smallest useful fix scope and the named files you touched
-3. update the matching docs when behavior, install truth, or task-family wording changes
+3. update the matching docs when behavior, install status, or task-family wording changes
 4. do not widen the public claim beyond the bounded beta surface
 
 ## How Pull Requests Are Handled
@@ -41,7 +41,7 @@ Pull requests are welcome. For bigger changes, open an issue first so we can kee
 
 1. small named-file fixes
 2. direct source-and-test follow-up changes
-3. bounded docs updates that keep install and task-family truth aligned
+3. bounded docs updates that keep install and task-family wording aligned
 4. issue-template or onboarding clarity improvements backed by proof
 
 ## Contribution License

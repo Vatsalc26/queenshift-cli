@@ -22,7 +22,7 @@ This gallery stays tied to real supported lanes, real commands, and real artifac
 - Task: `create notes.md with one sentence describing this repo`
 - Surface: thin shell `Guided` starter library
 - Proof anchor: `npm.cmd run verify:owner:task-library`, `npm.cmd run verify:task-composer`
-- Why it exists: calmest first task for a noncoder because the final task text stays visible before launch
+- Why it exists: recommended first task for a noncoder because the final task text stays visible before launch
 
 ### Small rename with direct call sites
 

@@ -1,6 +1,6 @@
 # Queenshift Install Surfaces
 
-## Current Install Truth
+## Current Install Status
 
 1. the only supported stranger install surface today is the local Windows bundle
 2. a checked-out repo clone is a partial contributor-style path, not packaged parity
@@ -15,7 +15,7 @@
 1. once `queenshift` is available, stay on the short product loop: `queenshift doctor -> queenshift owner:guided:demo -> queenshift demo:run -> queenshift repo:onboard --workspace <repo> -> queenshift "<task>" --workspace <repo> --admitOnly`
 2. checkout-only preparation commands stay in `../QUICKSTART.md` so the primary public README can stay on the product command path instead of contributor-style setup steps
 
-## Calm First Choice
+## Recommended First Choice
 
 1. if you have the local Windows bundle, start there first
 2. if you are inside a repo checkout, use `../QUICKSTART.md`, run `npm link`, confirm `queenshift --help`, run `queenshift doctor`, and use the guided demo before a real repo; this is the current clean-profile acceptance path for maintainers or evaluators
