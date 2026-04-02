@@ -32,7 +32,7 @@ Use it when you want one truthful answer for what is live now, what is still exp
 1. a bounded coding CLI with artifact-backed review, replay, and incident follow-up.
 2. a calmer first-run path with productized `queenshift` commands.
 3. one shipped bounded engine and one clearly separated experimental engine candidate.
-4. public docs that now match the real CLI instead of older maintainer-only command habits.
+4. public docs that now match the real CLI instead of older early-stage command habits.
 
 ## What Queenshift Does Not Claim Yet
 

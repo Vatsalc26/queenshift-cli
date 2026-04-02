@@ -41,4 +41,4 @@ These Gemini environment-driven paths keep `SWARM_GEMINI_AUTH` explicit instead 
 1. no hidden credential storage is added here
 2. Queenshift does not silently switch between Gemini and OpenAI
 3. a live run should not start until the provider path is explicit and ready
-4. provider setup stays on `queenshift` product commands instead of asking the user to start with maintainer-only verification wrappers
+4. provider setup stays on `queenshift` product commands instead of asking the user to start with low-level verification wrappers

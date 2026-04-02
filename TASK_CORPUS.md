@@ -22,7 +22,7 @@ These families best match the current bounded coding thesis:
 3. visible review and replay
 4. bounded verification surfaces
 
-## Additional Internal Or Evaluator Families
+## Additional Evaluator And Broader-Coverage Families
 
 These families exist in the broader project evidence, but they are not the first public defaults:
 
@@ -32,7 +32,7 @@ These families exist in the broader project evidence, but they are not the first
 4. `medium_multi_file_update`
 5. `cross_language_sync`
 
-They matter for internal evaluation and future growth, but they should not be mistaken for the calmest first-run story.
+They matter for deeper evaluation and future growth, but they should not be mistaken for the calmest first-run story.
 
 ## How To Read This
 

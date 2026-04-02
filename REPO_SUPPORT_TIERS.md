@@ -33,7 +33,7 @@ node dist/swarm.js repo:onboard --workspace <repo>
 node dist/swarm.js --task "add a brief comment to hello.ts" --admitOnly --workspace <repo>
 ```
 
-Large-repo beta notes remain a maintainer-only surface until that larger-repo package is cleaned for public release.
+Large-repo beta notes remain a later-stage public surface until that larger-repo package is ready for a clearer release story.
 
 ## Large-Repo Beta Status
 

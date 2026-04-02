@@ -2,7 +2,7 @@
 
 All notable changes to Queenshift should be documented in this file.
 
-This changelog records public product changes, not private pre-release session history.
+This changelog records public product changes and released public milestones.
 
 ## Unreleased
 
